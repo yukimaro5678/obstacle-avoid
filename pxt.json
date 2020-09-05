@@ -1,0 +1,23 @@
+{
+    "name": "しょうがいぶつかいひカー",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pca9685": "github:jdarling/pxt-pca9685#089c82dfb3ff81b8712ad1c0717036a4a65ef65a",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.10"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
